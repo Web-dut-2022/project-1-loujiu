@@ -36,3 +36,14 @@ textarea {
 .sidebar h2 {
     margin-top: 5px;
 }
+
+.btn1 {
+    font-weight: bold;
+    width:100%
+	word-break: break-all;
+}
+
+.btn2 {
+    height: 500px;
+    width:100%;
+}
